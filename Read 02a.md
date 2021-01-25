@@ -4,6 +4,11 @@
  
  # _Syntax guide:_
  
+ Headers| Emphasis
+------------ | -------------
+Lists | Images
+Links | Inline code
+ 
  
 [To Read  More about Features  !](https://guides.github.com/features/mastering-markdown/):smile:
 
