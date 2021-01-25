@@ -24,3 +24,5 @@ __Fixed Mindest__ :
 
  [ Read more Here !!](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
  
+ 
+ 
