@@ -4,18 +4,6 @@
  
  # _Syntax guide:_
  
- 1. Headers
- 1.  Emphasis
- 
- 1.  Lists 
- 
-    1.  ordered 
-    1.  unorderd 
- 1. Images
- 1. Links
- 1. Inline code
- 
- 
  
 [To Read  More about Features  !](https://guides.github.com/features/mastering-markdown/):smile:
 
