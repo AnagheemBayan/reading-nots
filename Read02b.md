@@ -3,7 +3,7 @@
 
  __Version Control__:Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
  
- # There are three types of Version Control:
+ __There are three types of Version Control:__
  
  * __Local Version Control:__
 Many years ago, programmers created Local Version Control systems. A Local VCS entails one database on your hard disk that stores changes to files.
@@ -64,7 +64,7 @@ Flagged a file’s changed version to be committed in the next snapshot
  
  ![github](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
  
- # Remote Repositories:
+ # __Remote Repositories:__
  
  In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from
  
