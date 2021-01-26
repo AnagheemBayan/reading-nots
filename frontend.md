@@ -98,12 +98,7 @@ using size, color, and style.
 the information you present.
 
 
-[To get more information!!](https://ltuc-asac.slack.com/files/U0137RDB5H6/F01KVH4GG1Y/duckett_html.pdf)
 
-
-
-
-![html](https://miro.medium.com/max/675/1*dqLV7KjUtg57JPBCilqxSQ.jpeg)
 
 
 
