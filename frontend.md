@@ -1,5 +1,5 @@
-# How People
-Access the Web :
+
+# How people Access the Web :
 
 1. Browsers
 1. Web Servers
