@@ -6,9 +6,6 @@ my name's Anagheem Bayan from Irbid , I have a bachelor degree in Management Inf
 
 I want to achive my self in web development and find my dreams become true .
 
-
-
-
 ## Here Is some of pages I had creat :
 
 | Page   | Link |
@@ -17,3 +14,4 @@ I want to achive my self in web development and find my dreams become true .
 | Gittutorial  | https://anagheembayan.github.io/reading-notes/Gittutorial|
 | Mindset | https://anagheembayan.github.io/reading-notes/Mindset |
 
+![mypage](https://www.jucoolimages.com/images/welcome_to_my_page/welcome_to_my_page_04.jpg)
