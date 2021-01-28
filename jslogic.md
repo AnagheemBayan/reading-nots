@@ -1,15 +1,6 @@
 
 # LOGICAL OPERATION AND LOOPS  :
 
-* Evaluating Conditions 
-
-| operators| describtion|
-| ------------- | ------------- |
-| ==   | 'is equal to ' to compare two values to see if they are the same |
-| !=  | 'is't equal to' compare two values to see if the are not the same   |
-
-| === | 'strict equal to' compare two values to check that both the data type and value are the same |
-|!== | 'strict not to equal to' compare two values to check that both data type and value are not the same |
 
 ## Logical operator :
 
