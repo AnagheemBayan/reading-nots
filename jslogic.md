@@ -18,7 +18,7 @@
 | logical operator | name |
 | ------------- | ------------- |
 | &&  | logical and |
-| OR"||"  | logical or |
+| OR  | logical or |
 | !   | logical not |
 
 # loops :
