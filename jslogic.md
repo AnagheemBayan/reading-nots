@@ -1,4 +1,5 @@
-RATORS:
+
+# LOGICAL OPERATION AND LOOPS  :
 
 * Evaluating Conditions 
 
@@ -17,7 +18,7 @@ RATORS:
 | logical operator | name |
 | ------------- | ------------- |
 | &&  | logical and |
-| ||  | logical or |
+| OR"||"  | logical or |
 | !   | logical not |
 
 # loops :
