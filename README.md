@@ -11,8 +11,11 @@ I want to achive my self in web development and find my dreams become true .
 
 ## Here Is some of pages I had creat :
 
-| Page   | Link                                                    |
-| ------------- | ------------- |
-| Markdown| [markdown](https://anagheembayan.github.io/reading-notes/Markdown)|
-| Gittutorial  |[gittutorial](https://anagheembayan.github.io/reading-notes/Gittutorial )                                             |
-| Mindset |[mindset](https://anagheembayan.github.io/reading-notes/Mindset)  |
+
+ Markdown [markdown](https://anagheembayan.github.io/reading-notes/Markdown)
+ 
+ Gittutorial[gittutorial](https://anagheembayan.github.io/reading-notes/Gittutorial )
+
+ Mindset [mindset](https://anagheembayan.github.io/reading-notes/Mindset)
+
+
