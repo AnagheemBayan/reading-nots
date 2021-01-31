@@ -30,19 +30,21 @@ an element. You can specify any
 color in CSS in one of three ways:
 
 
-| ways  |           describtion                                                      |
-| ------- | ----------------------------------------------------         |
-|  rgb values |    These express colors in terms
+  * rgb values :   These express colors in terms
 of how much red, green and
-blue are used to make it up                                                                 |
-|  hex codes  | These are six-digit codes that
+blue are used to make it up   
+
+                                                              
+ * hex codes  :These are six-digit codes that
 represent the amount of red,
 green and blue in a color,
 preceded by a pound or hash #
-sign. For example: #ee3e80                                                                  |
-|  color names   |    There are 147 predefined color
+sign. For example: #ee3e80  
+
+                                                            
+*  color names  :   There are 147 predefined color
 names that are recognized
-by browsers                                                              |
+by browsers .
 
 
 
