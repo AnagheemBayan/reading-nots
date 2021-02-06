@@ -101,21 +101,6 @@ and how much space it might require.
 
 
 
-# The ABC of Programming:
-
-__A__
-What is a script and how do I create one?
-
-
-__B__ 
-
-How do computers fit in with
- the world around them?
-
- __C__
-
- How do I write a script for a
- web page?
 
 
 
