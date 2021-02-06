@@ -76,8 +76,8 @@ have its own heading.
 
 " The purpose of the <hgroup>
 element is to group together a
-set of one or more <h1> through
-<h6> elements so that they are
+set of one or more  through
+ elements so that they are
 treated as one single heading. "
 
 
