@@ -74,19 +74,11 @@ have its own heading.
 ### Heading Groups
 <hgroup>
 
-" The purpose of the <hgroup>
+ The purpose of the 
 element is to group together a
 set of one or more  through
  elements so that they are
-treated as one single heading. "
-
-
-##  WireFrames :
-
-A wireframe is a simple sketch of the key
-information that needs to go on each page of a
-site. It shows the hierarchy of the information
-and how much space it might require.
+treated as one single heading. 
 
 
 
