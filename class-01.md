@@ -71,14 +71,17 @@ have its own heading.
 
 
 
-### Heading Groups
+## Heading Groups
 <hgroup>
 
-" The purpose of the <hgroup>
+ The purpose of the <hgroup>
 element is to group together a
 set of one or more  through
  elements so that they are
-treated as one single heading. "
+treated as one single heading. 
+
+
+
 
 
 ##  WireFrames :
