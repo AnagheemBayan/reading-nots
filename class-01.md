@@ -82,7 +82,7 @@ treated as one single heading. "
 
 
 
-### Who is the Site For?
+* Who is the Site For?
 
 "Every website should be designed for the
 target audience"
@@ -92,7 +92,7 @@ target audience"
 1. Target Audience: Companies
 
 
-## WireFrames :
+# WireFrames :
 
 A wireframe is a simple sketch of the key
 information that needs to go on each page of a
