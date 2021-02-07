@@ -28,7 +28,7 @@ I want to achive my self in web development and find my dreams become true .
 | Pages  | links                |
 | ------------- | ------------- |
 | 1  | [class-01](https://anagheembayan.github.io/reading-nots/class-01) |
-| 2  | |
+| 2  |[class-02](https://anagheembayan.github.io/reading-nots/class-02) |
 | 3  | |
 | 4  | |
 | 5  | |
