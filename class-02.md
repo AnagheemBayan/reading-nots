@@ -4,7 +4,6 @@
 * HTML elements are used to describe the structure of
 the page .
 
-
   Elements  are Used for   :
 
                                                     
