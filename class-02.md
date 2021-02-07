@@ -51,7 +51,7 @@ the page .
 | Selector      | Example       |
 | ------------- | ------------- |
 | Universal Selector | * {} Targets all elements on the page                   |
-| Class Selector     | h1, h2, h3 {} Targets the <h1>, <h2> and <h3> elements  |
+| Class Selector     | h1, h2, h3 {} Targets the h1, h2 and h3 elements  |
 |  ID Selector       |  #introduction {}                                       |
 
 
