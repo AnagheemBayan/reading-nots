@@ -1,4 +1,3 @@
- 
  ![htmlls](https://wuschools.com/wp-content/uploads/2020/02/list-in-html.jpg)
 
 ### There are three main types of lists :
@@ -71,17 +70,3 @@ If used, a positive value will cause the shadow to expand in all directions, and
  
 
  ![boxes](https://hackernoon.com/hn-images/1*2jZwpWH9XO_QllhEpyGqMA.png)
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-

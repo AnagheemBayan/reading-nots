@@ -60,7 +60,3 @@ var area = 3 * 2;
 
 
  ![javascript](https://miro.medium.com/max/800/1*bxEkHw1xewxOFjmGunb-Cw.png)
- 
-
-
-

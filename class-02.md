@@ -77,3 +77,11 @@ An array is a special type of variable. It doesn't just store one value; it stor
 
 
 ![logical](https://i.ytimg.com/vi/JVL6xEzOCrE/maxresdefault.jpg)
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> aebfdb209ff98b1c2266326b9619d00826376192

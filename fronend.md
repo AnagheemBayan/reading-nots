@@ -1,5 +1,5 @@
-# How People
-Access the Web :
+
+# How people Access the Web :
 
 1. Browsers
 1. Web Servers
@@ -7,7 +7,10 @@ Access the Web :
 1. Devices
 
 
-## How the Web Works
+
+
+# How the Web Works
+
 
 When you visit a website, the web server
 hosting that site could be anywhere in the
@@ -15,7 +18,7 @@ world. In order for you to find the location of
 the web server, your browser will first connect
 to a Domain Name System (DNS) server
 
-###  Summary structure of html :
+## Summary structure of html :
 
 1. HTML uses tags (characters that sit inside angled
 brackets) to give the information they surround special
@@ -99,9 +102,3 @@ the information you present.
 
 
 ![html](https://miro.medium.com/max/675/1*dqLV7KjUtg57JPBCilqxSQ.jpeg)
-
-
-
-
-
-
