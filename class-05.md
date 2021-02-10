@@ -22,20 +22,20 @@ web page.
 1. in the middle of a paragraph
 
  
- ### There are Three Rules for Creating Images :
+ # There are Three Rules for Creating Images :
 
  1.  Save images in the right format
  1.  Save images at the right size
  1.  Use the correct resolution
 
 
- ## Image Formats: 
+ # Image Formats: 
 
  1.  JPEG: Whenever you have many different colors in a picture you should use a JPEG.
 
  1. GIF : when saving images with few colors or large areas of the same color
 
- ### Image Resolution : Images created for the web should be saved ata resolution of 72 ppi.
+ # Image Resolution : Images created for the web should be saved ata resolution of 72 ppi.
   * The higher the resolution of the image, the larger the size of the file.
 
 
