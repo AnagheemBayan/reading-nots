@@ -34,7 +34,7 @@ of a something you would recognize from the real world.
  * DOM tree: when browser load a web page it creat a model of that page .
 
 
- ## consists of four main types of nodes. 
+ * consists of four main types of nodes. 
 
 1. The DOCUMENT Node
 1. ELEMENT Nodes
