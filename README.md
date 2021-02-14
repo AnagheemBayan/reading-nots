@@ -33,7 +33,7 @@ I want to achive my self in web development and find my dreams become true .
 | 4  |[class-04](https://anagheembayan.github.io/reading-nots/class-04) |
 | 5  |[class-05](https://anagheembayan.github.io/reading-nots/class-05) |
 | 6  | [class-06](https://anagheembayan.github.io/reading-nots/class-06)|
-| 7  | |
+| 7  |[class-07](https://anagheembayan.github.io/reading-nots/class-07)|
 | 8  | |
 | 9  | |
 | 10 | |
