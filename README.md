@@ -40,8 +40,8 @@ I want to achive my self in web development and find my dreams become true .
 | 11 |[class-11](https://anagheembayan.github.io/reading-nots/class-11) |
 | 12 | [class-12](https://anagheembayan.github.io/reading-nots/class-12) | 
 | 13 |[class-13](https://anagheembayan.github.io/reading-nots/class-13) |
-| 14 | |
-| 15 | |
+| 14 |[class-14](https://anagheembayan.github.io/reading-nots/class-14) |
+| 15 |[class-15](https://anagheembayan.github.io/reading-nots/class-15) |
 
 
 
