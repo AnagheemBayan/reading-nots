@@ -3,7 +3,7 @@
 ## A script is a series of instructions that a computer can follow to achive a goal .
 
 
-* __ make websites more interactive , intreseting and user friendly .__
+* ##  Make websites more interactive , intreseting and user friendly .
 
 
 * J Qury : makes writing of JS alot easier .
@@ -60,7 +60,7 @@ var area = 3 * 2;
 
 
  ![javascript](https://miro.medium.com/max/800/1*bxEkHw1xewxOFjmGunb-Cw.png)
- 
+
 
 
 
