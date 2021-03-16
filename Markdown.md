@@ -18,4 +18,3 @@
 It is a open source platform that allow sharing , build things ,build web page page without HTML,repository ,contnt and transform your plain text into static website and blogs .
 
 ![github](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png)
-

@@ -23,6 +23,3 @@ __Fixed Mindest__ :
 ![](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
 
  [ Read more Here !!](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
- 
- 
- 
