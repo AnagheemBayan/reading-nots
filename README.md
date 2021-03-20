@@ -40,7 +40,7 @@
 
 | Pages  | links                |
 | ------------- | ------------- |
-| 1  | |
+| 1  | [class-01](https://anagheembayan.github.io/reading-nots/301-class-01)|
 | 2  | |
 | 3  | |
 | 4  | |
