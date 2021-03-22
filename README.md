@@ -42,7 +42,7 @@
 | ------------- | ------------- |
 | 1  | [class-01](https://anagheembayan.github.io/reading-nots/301-class-01)|
 | 2  | [class-02](https://anagheembayan.github.io/reading-nots/301-class-02)|
-| 3  | |
+| 3  |[class-03](https://anagheembayan.github.io/reading-nots/301-class-03) |
 | 4  | |
 | 5  | |
 | 6  | |
