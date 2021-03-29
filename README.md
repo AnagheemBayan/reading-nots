@@ -46,8 +46,8 @@
 | 4  | [class-04](https://anagheembayan.github.io/reading-nots/301-class-04)  |
 | 5  | [class-05](https://anagheembayan.github.io/reading-nots/301-class-05) |
 | 6  | [class-06](https://anagheembayan.github.io/reading-nots/301-class-06)  |
-| 7  | |
-| 8  | |
+| 7  | [class-07](https://anagheembayan.github.io/reading-nots/301-class-07)|
+| 8  | [class-08](https://anagheembayan.github.io/reading-nots/301-class-08)  |
 | 9  | |
 | 10 | |
 | 11 | |
