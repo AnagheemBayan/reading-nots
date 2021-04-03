@@ -48,9 +48,9 @@
 | 6  | [class-06](https://anagheembayan.github.io/reading-nots/301-class-06)  |
 | 7  | [class-07](https://anagheembayan.github.io/reading-nots/301-class-07)|
 | 8  | [class-08](https://anagheembayan.github.io/reading-nots/301-class-08)  |
-| 9  | |
-| 10 | |
-| 11 | |
+| 9  | [class-09](https://anagheembayan.github.io/reading-nots/301-class-09)|
+| 10 | [class-10](https://anagheembayan.github.io/reading-nots/301-class-10)|
+| 11 |[class-11](https://anagheembayan.github.io/reading-nots/301-class-11) |
 | 12 | | 
 | 13 | |
 | 14 | |
