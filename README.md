@@ -53,7 +53,7 @@
 | 11 |[class-11](https://anagheembayan.github.io/reading-nots/301-class-11) |
 | 12 |[class-12](https://anagheembayan.github.io/reading-nots/301-class-12) | 
 | 13 |[class-13](https://anagheembayan.github.io/reading-nots/301-class-13) |
-| 14 | |
+| 14 |[class-14](https://anagheembayan.github.io/reading-nots/301-class-14)  |
 | 15 | |
 
 
